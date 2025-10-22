@@ -1,26 +1,6 @@
 {
   "sortedMiddleware": [],
   "middleware": {},
-  "functions": {
-    "/api/sheets/append/route": {
-      "files": [
-        "server/middleware-build-manifest.js",
-        "server/middleware-react-loadable-manifest.js",
-        "server/next-font-manifest.js",
-        "server/edge-runtime-webpack.js",
-        "server/app/api/sheets/append/route.js"
-      ],
-      "name": "app/api/sheets/append/route",
-      "page": "/api/sheets/append/route",
-      "matchers": [
-        {
-          "regexp": "^/api/sheets/append$",
-          "originalSource": "/api/sheets/append"
-        }
-      ],
-      "wasm": [],
-      "assets": []
-    }
-  },
+  "functions": {},
   "version": 2
 }

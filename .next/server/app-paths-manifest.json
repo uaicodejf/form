@@ -1,5 +1,4 @@
 {
-  "/api/sheets/append/route": "app/api/sheets/append/route.js",
   "/page": "app/page.js",
   "/form/page": "app/form/page.js"
 }
